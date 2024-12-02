@@ -1,5 +1,7 @@
 ### 👋 Welcome to my profile!
 
+I am a tech enthusiast with a background in system administration, who enjoys programming, networking, and web development, and currently works as an automation technician.
+
 I have a background in system administration and a passion for programming. Here are some areas where I have experience:
 
 - **Programming Languages**: C#, Java
