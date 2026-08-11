@@ -3,6 +3,9 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=360&size=22&duration=3500&pause=5000&color=00F7A2&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!">
 </p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width=160px>
+</p>
 
 <br>I'm an **IT System Administrator** with a background in **automation, manufacturing IT, and system administration**. My career started in industrial automation, where I worked with robots, stocker systems, and factory automation solutions, giving me valuable insight into manufacturing environments, MES systems, and production infrastructure.
 
