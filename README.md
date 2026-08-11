@@ -1,5 +1,47 @@
 # 💫 About Me:
-👋 Welcome to my profile!<br>I am a tech enthusiast with a background in system administration, who enjoys programming, networking, and web development, and currently works as an IT System Administrator<br><br>I have a background in system administration and a passion for programming. Here are some areas where I have experience:<br><br>Programming Languages: C#, Java<br>Web Development: HTML, CSS, JavaScript<br>Office Products: Extensive experience with Microsoft Office suite<br>I currently work as an automation technician and am eager to expand my knowledge in AI integration and further develop my skills in the programming languages I have learned.<br><br>I am always eager to learn new technologies and tools, and I enjoy working on various projects to further develop my skills. If you share similar interests or just want to connect, feel free to reach out!<br><br>🌱 Currently learning:<br>Gaining deeper knowledge in web development<br>Learning new programming languages and frameworks<br>Exploring AI integration<br>📫 Contact:<br>LinkedIn<br>Email<br>Thank you for visiting my profile! 😊
+👋 Welcome to my profile!<br><br>I'm an **IT System Administrator** with a background in **automation, manufacturing IT, and system administration**. My career started in industrial automation, where I worked with robots, stocker systems, and factory automation solutions, giving me valuable insight into manufacturing environments, MES systems, and production infrastructure.
+
+Today, I work as a System Administrator, managing and supporting Windows and Linux environments, Active Directory, virtualization platforms, networking, and day-to-day IT operations. I also support manufacturing-related systems and help maintain the IT infrastructure behind PLC-controlled machinery and industrial production processes.
+
+I have a strong passion for technology, automation, and software development. Alongside my infrastructure responsibilities, I enjoy creating internal tools, scripts, and small applications that automate repetitive tasks and improve efficiency.
+
+## 🛠️ Technical Skills
+
+- 🪟 Windows Server & Active Directory
+- 🐧 Linux Administration
+- ☁️ Virtualization Technologies
+- 🌐 Networking & Troubleshooting
+- 📊 Manufacturing IT & MES Systems
+- 🤖 Industrial Automation & PLC Environments
+- 💻 Hardware Maintenance & Support
+- 🔐 IT Security Fundamentals
+
+## 💻 Development Experience
+
+- **Development / Languages:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) , ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) , ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) , ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) , ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) , ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- **Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) , ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) , ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) , ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) , ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- **Automation & Scripting:** ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) , ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) , ![AutoHotkey](https://a11ybadges.com/badge?logo=autohotkey)
+- **Microsoft Office & Excel Automation**
+- **Database:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) , ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) , ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- **AI:** ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
+
+## 🌱 Currently Learning
+
+- Advanced networking concepts
+- IT security and cybersecurity
+- AI integration and automation
+- Modern web technologies and frameworks
+
+## 🚀 Interests
+
+I enjoy solving real-world technical challenges, improving systems through automation, and working at the intersection of IT, manufacturing, and software development. I'm always exploring new technologies and continuously expanding my knowledge through personal projects and hands-on experience.
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
+
+Thanks for visiting my profile! 😊
 
 
 ## 🌐 Socials:
