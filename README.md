@@ -1,5 +1,9 @@
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=360&size=22&duration=3500&pause=5000&color=00F7A2&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!)](https://github.com/verebtamas)
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=360&size=22&duration=3500&pause=5000&color=00F7A2&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!">
+</p>
+
 <br>I'm an **IT System Administrator** with a background in **automation, manufacturing IT, and system administration**. My career started in industrial automation, where I worked with robots, stocker systems, and factory automation solutions, giving me valuable insight into manufacturing environments, MES systems, and production infrastructure.
 
 Today, I work as a System Administrator, managing and supporting Windows and Linux environments, Active Directory, virtualization platforms, networking, and day-to-day IT operations. I also support manufacturing-related systems and help maintain the IT infrastructure behind PLC-controlled machinery and industrial production processes.
